@@ -1,5 +1,5 @@
 pool:
-  vmImage: mcs_pool
+  vmImage: Ubuntu-18.O4
 variables:
   solution: './ClientLibrary/Samples/ClientSamples.sln'
   buildPlatform: 'Any CPU'
