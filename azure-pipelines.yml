@@ -1,5 +1,5 @@
 pool:
-  vmImage: Ubuntu-18.O4
+  vmImage: ubuntu-latest
 variables:
   solution: './ClientLibrary/Samples/ClientSamples.sln'
   buildPlatform: 'Any CPU'
