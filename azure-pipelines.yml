@@ -1,6 +1,5 @@
 pool:
-  vmImage: vs2017-win2016
-
+  vmImage: mcs_pool
 variables:
   solution: './ClientLibrary/Samples/ClientSamples.sln'
   buildPlatform: 'Any CPU'
